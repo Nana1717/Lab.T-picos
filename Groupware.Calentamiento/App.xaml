@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Groupware.Calentamiento.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Groupware.Calentamiento"
+    RequestedTheme="Light">
+
+</Application>
